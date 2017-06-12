@@ -563,6 +563,9 @@ h6,
 #content6-h P {
   font-family: 'Lora', serif;
 }
+#content6-h UL {
+  text-align: center;
+}
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
 }

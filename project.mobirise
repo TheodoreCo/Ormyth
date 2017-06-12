@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "name": "Ormyth",
     "theme": {
       "name": "mobirise3",
@@ -347,7 +347,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Au début fut le Monde Inerte, pourvu de matière mais sans Lois. Après une certaine durée de temps (ce qui est un abus de langage car le temps lui-même n’existait pas), le Monde gagna la Conscience.</blockquote>"
+          "text": "<blockquote>Au début fut le Monde Inerte, pourvu de matière mais sans Lois. Après un certain temps (ce qui est un abus de langage car le temps lui-même n’existait pas), le Monde gagna la Conscience.</blockquote>"
         },
         {
           "_tags": [
@@ -366,7 +366,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>&nbsp; &nbsp; Le Monde sentit que tout manquait, et il créa d’abord les Premières Lois, puis se façonna lui-même. Après cela, il s’incarna pour visiter son travail. Le temps passait très lentement pour Hett (ainsi on le nomme sous sa forme corporelle), il rêva les êtres vivants puis créa les Hommes à partir d’une partie de sa Conscience. Il ne leur accordât pas l’immortalité car lui-même savait à quel point c’est un fardeau. Hett n’est pas une entité égoïste, loin de là. Il se mélangea aux humains, leur partageant son Savoir et apprenant lui-même des choses nouvelles. On appelle aujourd’hui cette période « la période bleue». Il est nécessaire de savoir que pendant la période bleue, Hett s’occupait personnellement de tout (maintenance des Premières Lois, gestion du cycle des réincarnations, contrôle de la chance et la nature, etc.). &nbsp;</p>"
+          "text": "<p>&nbsp; &nbsp; Le Monde sentit que tout manquait, et il créa d’abord les Premières Lois, puis se façonna lui-même. Après cela, il s’incarna pour mieux observer le fruit de son travail. Le temps passait très lentement pour Hett (ainsi on le nomme sous sa forme corporelle), il rêva les êtres vivants puis créa les Hommes à partir de sa Conscience. Il ne leur accordât pas l’immortalité car lui-même savait à quel point elle était un fardeau. Hett n’est pas une entité égoïste, loin de là. Il se mélangea aux humains, leur partageant son Savoir et apprenant lui-même des choses nouvelles. On appelle aujourd’hui cette période « la période bleue». Il est nécessaire de savoir que pendant la période bleue, Hett s’occupait personnellement de tout (maintenance des Premières Lois, gestion du cycle des réincarnations, contrôle de la chance et la nature, etc.). &nbsp;</p>"
         },
         {
           "_tags": [
@@ -385,7 +385,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Mais, hélas, chaque problème et chaque mauvaise action accomplie par les humains emplissaient Hett de douleur. Un jour, ne pouvant plus supporter ni l’imperfection de sa création, ni même la sienne, il instaura une myriade de Nouvelles Lois pour accomplir son travail à sa place, puis il divisa son Pouvoir en cinq parties. Il plaça les cinq parties de son pouvoir à l’intérieur de cinq pierres, qu’il cacha dans des lieux dangereux et durs d’accès appelés « Donjons ».&nbsp;</p>"
+          "text": "<p>Mais, hélas, chaque problème et chaque mauvaise action accomplie par les humains emplissaient Hett de douleur. Un jour, ne pouvant plus supporter ni l’imperfection de sa création, ni même la sienne, il instaura une myriade de Nouvelles Lois pour accomplir son travail à sa place, puis il divisa son Pouvoir en cinq parties. Il plaça les cinq parties de son pouvoir à l’intérieur de cinq pierres, qu’il cacha dans des lieux dangereux et difficiles d’accès appelés « Donjons ».&nbsp;</p>"
         },
         {
           "_tags": [
@@ -409,6 +409,9 @@
             "P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "UL": {
+              "text-align": "center"
             }
           },
           "_anchor": "content6-h",
@@ -417,8 +420,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Depuis, les humains et autres êtres vivants continuèrent de vivre à l’intérieur du Monde, mais ce n’est pas Hett l’endormi qui prends les décisions : ce soins les Nouvelles Lois métalliques et aigues qu’il a créé avant de s’endormir. Plus le temps passait, plus le monde sombrait dans un état de profonde décrépitude. Mais un jour, l’oracle d’Eowyn prédit qu’un jeune homme, nommé Nathaniel, réussira à rassembler les cinq fragments de Puissance cachés dans les donjons, et obtiendra en les rassemblant l’Ormyth. L’Ormyth est un artefact légendaire donnant une puissance divine à quiconque le touche, et Nathaniel s’en servira pour rétablir l’équilibre dans le monde selon l’Oracle, mais ils sont gardés par les créatures crées par Hett dans sa folie avant de s'endormir.</p>",
-          "text2": "<p>Incarnez Nathaniel et rassemblez les cinq fragments de Pouvoir qui serviront à créer l’Ormyth ! Usez votre réflexion ainsi que votre agilité afin de surmonter les épreuves qui vous attendent, pour accéder au stade de divinité ! L’avenir de votre monde en dépend !</p><p><br></p><p><br></p><p>Ou bien alors incarnez des créatures crées  pendant la folie de Hett, qui ont gagné une conscience et se rebellent contre leur sort!</p><p>Dans ce cas, choisissez entre la Première Créature, qui est le premier monstre ayant eu accès à la conscience et qui a accès à la magie, et ses assistants dont le but est d’aider la Première créature à résoudre ses problèmes ! Jouez-y entre amis !</p><p><br></p><p><br></p>"
+          "text1": "<p>Depuis, les humains et autres êtres vivants continuèrent de vivre à l’intérieur du Monde, mais ce n’est pas Hett l’endormi qui prends les décisions : ce soint les Nouvelles Lois métalliques et aigues qu’il a créé avant de s’endormir. Plus le temps passait, plus le monde sombrait dans un état de profonde décrépitude. Mais un jour, l’oracle d’Eowyn prédit qu’un jeune homme, nommé Nathaniel, réussira à rassembler les cinq fragments de Puissance cachés dans les donjons, et obtiendra en les rassemblant l’Ormyth. L’Ormyth est un artefact légendaire donnant une puissance divine à quiconque le touche. &nbsp;Nathaniel s’en servira pour rétablir l’équilibre dans le monde selon l’Oracle, mais ils sont gardés par les créatures crées par Hett dans sa folie avant de s'endormir.</p>",
+          "text2": "<p>Incarnez Nathaniel et rassemblez les cinq fragments de Pouvoir qui serviront à créer l’Ormyth ! Usez de votre réflexion ainsi que de votre agilité afin de surmonter les épreuves qui vous attendent, pour accéder au stade de divinité ! L’avenir de votre monde en dépend !</p><p><br></p><p><br></p><p>Ou bien alors incarnez des créatures engendrées par la folie de Hett, qui ont gagné une conscience et se rebellent contre leur sort!</p><p>Dans ce cas, choisissez entre la Première Créature, qui est le premier monstre ayant eu accès à la conscience et qui a accès à la magie, et ses assistants dont le but est d’aider la Première créature à résoudre ses problèmes ! Jouez-y entre amis !</p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -757,7 +760,7 @@
             "bgColor": "#cccccc"
           },
           "text1": "<p><b>Quentin Albertus</b></p><p><br></p><p>Fan de livre fantastique en tout genre, c'est tout naturellement que j'ai trouvé intéressant de faire un jeu à scenario.</p><p>De plus, les jeux de réflexion sont des jeux auxquels je joue beaucoup, qu'ils soient de société ou vidéo.</p><p>De par mes nombreuses années de musicien, composer certaines musiques de jeu présente également un attrait particulier pour moi.</p>",
-          "text2": "<p><b>Vincent Masson</b></p><p><br></p><p>Je suis un élève studieux et polyvalent, prompt à aider mes camarades dans l'incompréhension et le besoin, et c'est donc tout naturellement que j'ai endossé le rôle de chef de projet.</p><p>De plus, mon intérêt pour les jeux vidéo et le domaine du fantastique place le projet Ormyth au centre de mes priorités.</p>"
+          "text2": "<p><b>Vincent Masson</b></p><p><br></p><p>Je suis un élève studieux et polyvalent, prompt à aider mes camarades dans le besoin, et c'est donc tout naturellement que j'ai endossé le rôle de chef de projet.</p><p>De plus, mon intérêt pour les jeux vidéo et le domaine du fantastique place le projet Ormyth au centre de mes priorités.</p>"
         },
         {
           "_tags": [
@@ -776,8 +779,8 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text1": "<p><b>Théodore Coman</b></p><p><br></p><p>Je suis un élève créatif, motivé et toujours de bonne humeur, accessoirement musicien.</p><p>Depuis toujours, j'ai rêvé de participer à l'élaboration d'un jeu comme Ormyth pour étancher ma soif de création.</p><p>Aimant composer, j'ai sauté sur l'occasion d'intégrer ma musique à un jeu, et c'est ainsi que je me suis retrouvé dans ce groupe!</p>",
-          "text2": "<p><b>Clément Dedenis</b></p><p><br></p><p>Accros aux jeux vidéo et notamment accro au RPG (Role Play Game), il me paraît évident que notre projet parte sur cette voie.</p><p>Ayant toujours une très bonne idée du résultat que j'attends d'un projet, je saurais emmener ce vaisseau à bon port et sans détour.</p><p>Je suis aussi touche-à-tout en ce qui concerne le potentiel d'un langage et de ses limites, je suis donc impatient à l'idée d'entamer ce projet.</p>"
+          "text1": "<p><b>Théodore Coman</b></p><p><br></p><p>Je suis quelqu'un &nbsp;de créatif, motivé et toujours de bonne humeur, accessoirement musicien.</p><p>Depuis toujours, j'ai rêvé de participer à l'élaboration d'un jeu comme Ormyth pour étancher ma soif de création, et étant fasciné par façon dont le jeu vidéo peut faire vivre et réécrire la mythologie,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;j'ai sauté sur l'occasion d'intégrer ma musique à un jeu. C'est ainsi que je me suis retrouvé dans ce groupe!</span></p>",
+          "text2": "<p><b>Clément Dedenis</b></p><p><br></p><p>Accros aux jeux vidéo et notamment accro au RPG (Role Play Game), il me paraît évident que notre projet parte sur cette voie.</p><p>Ayant toujours une très bonne idée du résultat que j'attends d'un projet, je saurais emmener ce vaisseau à bon port et sans détour.</p><p>Je suis aussi touche-à-tout en ce qui concerne le potentiel d'un langage et de ses limites, j'étais donc impatient à l'idée d'entamer ce projet.</p>"
         }
       ]
     },
@@ -946,7 +949,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "<p>Juste après la fondation du groupe, une question cruciale se révéla : quel sera le thème du jeu que l’on allait créer ? Plusieurs membres étant amateurs de jeux de rôles et de fantasy, le thème fut bien vite décidé. Les premiers pas furent difficiles ; autant pour la programmation que pour la partie graphique. Nous avons rencontré une myriade de problèmes : asset non fonctionnel sur unity, problèmes d’éclairage, petits bugs…problèmes qui ont finalement été résolus. Ainsi, en février, nous avions déjà un niveau jouable, mais avec des ennemis inactifs et sans graphismes, et peu de musiques. Les progrès qui ont été effectués entre février et avril sont loin d’être négligeables : deux nouveaux  niveaux ont été créés, les IA ont été codées, les ennemis ressemblent à des ennemis, plusieurs types de magie ont été implémentés et le jeu est devenu complet du point de vue musical. De plus, le site internet, fonctionnel et esthétique (comme vous pouvez le constater), a été mis au point.&nbsp;</p>"
+          "text": "<p>Juste après la fondation du groupe, une question cruciale se révéla : quel sera le thème du jeu que l’on allait créer ? Plusieurs membres étant amateurs de jeux de rôles et de fantasy, le thème fut bien vite décidé. Les premiers pas furent difficiles ; autant pour la programmation que pour la partie graphique. Nous avons rencontré une myriade de problèmes : asset non fonctionnel sur unity, problèmes d’éclairage, petits bugs…problèmes qui ont finalement été résolus. Ainsi, en février, nous avions déjà un niveau jouable, mais avec des ennemis inactifs et sans graphismes, et peu de musiques. Les progrès qui ont été effectués entre février et avril sont loin d’être négligeables : deux nouveaux  niveaux ont été créés, les IA ont été codées, les ennemis ressemblent à des ennemis, plusieurs types de magie ont été implémentés et le jeu est devenu complet du point de vue musical. De plus, le site internet, fonctionnel et esthétique (comme vous pouvez le constater), a été mis au point. Entre la deuxième et la dernière soutenance, les travaux ont été colossaux : des boss ont été modélisés et intégrés au jeu, l’intelligence artificielle a été grandement développée et deux nouveaux niveaux on fait leur apparition. Le site a été mis en ligne (vous êtes actuellement en train de le visiter) et le jeu est désormais téléchargeable depuis le site. &nbsp;</p>"
         }
       ]
     },
@@ -1112,7 +1115,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Pour y jouer, utiliser les flèches wasd pour se déplacer, shift pour courir, la touche espace pour sauter, les numéros 1 2 3 4 5 pour changer de magie, clique gauche pour tirer, et enfoncer la touche f pour porter des objets inanimés. L'objectif est de finir un niveau en vie, il faut donc faire attention aux créatures elémentaires malveillantes disséminées dans les niveaux.</p>"
+          "text": "<p>Pour y jouer, utiliser les flèches wasd pour se déplacer, shift pour courir, la touche espace pour sauter, les numéros 1 2 3 4 5 pour changer de magie, clique gauche pour tirer, et enfoncer la touche f pour porter des objets inanimés. L'objectif est de finir un niveau en vie, il faut donc faire attention aux créatures elémentaires malveillantes disséminées dans les niveaux. Lors du cinquième niveau, il est possible d’utiliser la touche g puis de sauter pour inverser la gravité. Pour revenir à la gravité normale, réappuyer sur g. Les commandes sont différentes pour le mode multijoueur : les flèches droite et gauche servent à faire pivoter le joueur au lieu de le faire se déplacer dans ces directions. &nbsp;Dans le mode multijoueur, le joueur « hôte » doit suivre le chemin de droite (portes bleues). Les autres joueurs doivent prendre le chemin de gauche et aider l’hôte à passer les portes.&nbsp;</p>"
         }
       ]
     }
